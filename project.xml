@@ -1,12 +1,12 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
-    <update> 
+    <update appID="Bonilla-Tech iCloud Tool"> 
         <version>3.0.0.0</version> 
-        <url>https://github.com/f-s0c13ty/Tool/blob/master/Debug/TestApp.exe?raw=true</url> 
-        <filePath>./TestApp.exe</filePath>
-        <md5>F4EB3EF6E24169CE8C6B77A730CD851F</md5>
+        <url></url> 
+        <fileName>Bonilla-Tech iCloud Tool.exe</fileName> 
+        <md5></md5>
         <description>Update: 03/23/2020:
-         1. Updated a label</description> 
+        1. Test Auto update.</description> 
         <launchArgs></launchArgs> 
-    </update>
- </sharpUpdate>
+    </update> 
+</sharpUpdate>
