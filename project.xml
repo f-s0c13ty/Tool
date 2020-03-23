@@ -1,0 +1,12 @@
+<?xml version="1.0"?> 
+<sharpUpdate> 
+    <update> 
+        <version>3.0.0.0</version> 
+        <url>https://github.com/f-s0c13ty/Tool/blob/master/Bonilla-TechTool.exe?raw=true</url> 
+        <filePath>./Bonilla-Tech iCloud Tool.exe</filePath>
+        <md5>F4EB3EF6E24169CE8C6B77A730CD851F</md5>
+        <description>Update: 03/23/2020:
+         1. Updated a label</description> 
+        <launchArgs></launchArgs> 
+    </update>
+ </sharpUpdate>
