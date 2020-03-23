@@ -1,7 +1,7 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>3.3.0.0</version> 
+        <version>3.4.0.0</version> 
         <url>https://raw.githubusercontent.com/f-s0c13ty/Tool/master/Debug/Bonilla-Tech%20iCloud%20Tool.exe</url> 
         <filePath>./Bonilla-Tech iCloud Tool.exe</filePath>
         <md5>D626396A25047083454B3972AC202CD0</md5>
